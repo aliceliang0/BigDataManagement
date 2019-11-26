@@ -2,9 +2,7 @@
 
 This repository comes from the projects of WPI DS503/CS585 classes.
 
-All the source code was written in Java.
-
-# Environment 
+# Hadoop Environment 
 
 **IntelliJ + Maven**
 
