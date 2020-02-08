@@ -1,6 +1,8 @@
 # BigDataManagementProjects
 
-This repository comes from the projects of WPI DS503/CS585 classes.
+This repository comes from the projects of WPI DS503/CS585 classes. 
+
+Topics cover many areas and tools, such as Hadoop, MapReduce, Scala, MongoDB.
 
 # Hadoop Environment 
 
@@ -18,6 +20,14 @@ We perform some queries using [MapReduce jobs](https://github.com/daojunL/-BigDa
 ## Projcet2 
 
 We solved four problems using MapReduce jobs. They are: Spatial Join, K-Means Clustering, Custom Input Format, Distance-Based Outlier Detection Clustering. [Link](https://github.com/daojunL/-BigDataManagementProjects/tree/master/project2/java)
+
+## Projcet3 
+
+In this project, we wrote some scala queris and MR jobs to deal with more complex tasks. 
+
+## Projcet4 
+
+This project covers some MongoDB query practices. 
 
 # Contributor
 
